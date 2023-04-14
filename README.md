@@ -1,5 +1,6 @@
 # Hong Kong Town Gas online meter data submitter
 This project is to provide an easy way to submit meter data to the online website of Hong Kong Town Gas Corp.
+
 ## How to use the command
 The usage is simple. You only need to provide your account ID on you bill and the data on the meter. Input them as paramters to the command as:
 
